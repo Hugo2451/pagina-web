@@ -1,0 +1,19 @@
+.titulo{
+
+    text-align: center;
+}
+
+.imagen{
+
+    margin: 5px 5px;
+    width: 230px;
+    height: 300px;
+}
+
+.imagen1{
+
+    margin: 5px 5px;
+    width: 230px;
+    height: 300px;
+    justify-content: center;
+}
